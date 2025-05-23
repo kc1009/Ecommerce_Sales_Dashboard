@@ -8,5 +8,5 @@ This dashboard provides insights into sales, profit trends, customer spending, a
 •	Customer Spending Analysis: Displays the top customers based on purchase amount.
 •	Category & Sub-Category Performance: Analysis sales and profit distribution across product categories.
 •	Payment Methods Breakdown: Visualizes payment preferences like UPI, Credit Card, and EMI.
-
+. Tools : Power BI, Excel, DAX.
 
