@@ -10,4 +10,8 @@ This dashboard provides insights into sales, profit trends, customer spending, a
 - **Category & Sub-Category Performance**: Analysis of sales and profit distribution across product categories.
 - **Payment Methods Breakdown**: Visualizes payment preferences like UPI, Credit Card, and EMI.
 - **Tools**: Power BI, Excel, DAX.
+- ## Dashboard Preview
+
+![Ecommerce Dashboard](Ecommerce%20sales.png)
+
 
